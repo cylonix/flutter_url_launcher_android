@@ -4,7 +4,7 @@
 
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:url_launcher_android/url_launcher_android.dart';
+import 'package:url_launcher_android_cylonix/url_launcher_android.dart';
 import 'package:url_launcher_platform_interface/url_launcher_platform_interface.dart';
 
 void main() {

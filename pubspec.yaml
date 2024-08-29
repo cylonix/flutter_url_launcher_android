@@ -1,4 +1,4 @@
-name: url_launcher_android
+name: url_launcher_android_cylonix
 description: Android implementation of the url_launcher plugin.
 repository: https://github.com/flutter/plugins/tree/main/packages/url_launcher/url_launcher_android
 issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+url_launcher%22
@@ -13,7 +13,7 @@ flutter:
     implements: url_launcher
     platforms:
       android:
-        package: io.flutter.plugins.urllauncher
+        package: cylonix.io.flutter.plugins.urllauncher
         pluginClass: UrlLauncherPlugin
         dartPluginClass: UrlLauncherAndroid
 

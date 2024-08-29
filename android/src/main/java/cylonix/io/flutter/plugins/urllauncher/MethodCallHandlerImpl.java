@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-package io.flutter.plugins.urllauncher;
+package cylonix.io.flutter.plugins.urllauncher;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -12,7 +12,7 @@ import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
 import io.flutter.plugin.common.MethodChannel.Result;
-import io.flutter.plugins.urllauncher.UrlLauncher.LaunchStatus;
+import cylonix.io.flutter.plugins.urllauncher.UrlLauncher.LaunchStatus;
 import java.util.Map;
 
 /**

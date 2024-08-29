@@ -1,4 +1,4 @@
-group 'io.flutter.plugins.urllauncher'
+group 'cylonix.io.flutter.plugins.urllauncher'
 version '1.0-SNAPSHOT'
 
 buildscript {
